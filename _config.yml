@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -52,20 +52,20 @@ round-avatar: true
 social-network-links:
   email: "songsiyuan0329@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+# facebook: deanattali
   github: SiyuanSong2004
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: songsiyuan_crasy
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +86 18951948778
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
