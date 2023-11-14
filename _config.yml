@@ -22,7 +22,7 @@ author: Siyuan Song
 navbar-links:
 
   About Me: "aboutme"
-  Work and Publications: "publications"
+  Research and Publications: "publications"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
