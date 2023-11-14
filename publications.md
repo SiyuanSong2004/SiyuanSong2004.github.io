@@ -5,7 +5,15 @@ subtitle: As a sophomore...there's still long way to go.
 ---
 
 ### Academic Interests
-Ignited by the 
+**Artificial Intelligence**: My journey into the realm of AI, particularly Deep Learning and Natural Language Processing, has been fueled by a fascination with Large Language Models (LLMs) like GPT-4. The recent advancements in these models, especially their capabilities in tasks like machine translation and logical reasoning, have deepened my interest. I am intrigued by the concept of prompt engineering and am constantly exploring ways to enhance the performance of LLMs.
+
+**Linguistics**: My major in Linguistics has naturally led me to an interest in Computational Linguistics (CL), an exciting intersection between computer science and linguistics. This field allows me to apply my understanding of language structures in the digital domain. I am also captivated by formal semantics, psycholinguistics, and neurolinguistics. These areas offer profound insights into how language interacts with our cognitive and neural processes.
+
+My academic journey so far has been marked by significant experiences, such as participating in an undergraduate research program under Prof. Hu Hai, focusing on the performance of Natural Language Inference (NLI) models on Chinese and multilingual texts. This experience highlighted the challenges in language model accuracy, especially with complex linguistic elements like Chinese idioms. It has also taught me the importance of collaboration between linguists and experts in other domains for future advancements in this field.
+
+As I continue my academic journey, I am eager to delve deeper into computational linguistics and NLP, understanding their limitations and potential, and contributing to the development of technologies that enable seamless communication between humans and machines.
+
+
 
 ### Publications
 Not available now.
