@@ -4,7 +4,6 @@ title: About me
 subtitle: The story begins here.
 ---
 
-My name is Siyuan Song. 
 
 
 ### My Interests
