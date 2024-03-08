@@ -20,7 +20,7 @@ subtitle: The story begins here.
 
 ### Education
 ###### 2022-Now
-Undergraduate Student at [School of Foreign Languages, Shanghai Jiao Tong Univ](https://sfl.sjtu.edu.cn/).
+Candidate for B.A. at [School of Foreign Languages, Shanghai Jiao Tong University](https://sfl.sjtu.edu.cn/).
 *Major in English(Linguistics) and minor in Economics.*
 
 ###### 2016-2022
