@@ -24,4 +24,4 @@ Candidate for B.A. at [School of Foreign Languages, Shanghai Jiao Tong Universit
 *Major in English(Linguistics) and minor in Economics.*
 
 ###### 2016-2022
-Junior and Senior High at [Nanjing Foreign Language School](http://www.nfls.com.cn/). 
+Junior and Senior High at [Nanjing Foreign Language School](http://www.nfls.com.cn/).
