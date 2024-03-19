@@ -21,20 +21,40 @@ Not available now.
 Please be patient! I'm trying my best to do something. Get back in a few months and check again.
 
 ### Research in Progress
-**Benchmarking LLMs with Chinese Xiehouyu**
+## **Benchmarking LLMs with Chinese Xiehouyu**
+
+*As the leader of the project, supervised by Prof. Hai Hu*
 
 Xiehouyu(歇后语) is a unique form of expression in Chinese, characterized by its brevity, wit, and vivid imagery. It consists of two parts: the first part acts as a 'lead-in,' similar to a riddle's setup, while the second part serves as the 'backing,' akin to the riddle's answer, fitting naturally and appropriately. In practical use, people often only say the first half and omit the second, allowing the listener to understand and guess its true meaning, hence the name xiehouyu.
 
-We aim to test the linguistic capabilities of large language models in various aspects by designing a database that includes xiehouyu.
+We aim to answer a series of RQs by designing a database that includes xiehouyu, including but not limited to:
+- Does the model's reasoning from the 'lead-in' to the 'backing' of a riddle depend on context?
+- Can the model understand manually created language riddles that do not exist in the current language?
+
+
+## **Evaluating Pragmatic Reasoning of LLMs With Chinese Implicatures**
+
+*As one of the key members, leaded by senior student Shisen Yue and supervised by Prof. Hai Hu*
+
+
+
+
+
+
+## ** **
+
+
+
+
 
 
 ### Other Works
-**Undergraduate Research Program at SJTU: Performance of NLI Models on parsing Chinese Idioms** 
+## **Undergraduate Research Program at SJTU: Performance of NLI Models on parsing Chinese Idioms** 
 
-Instructed by professor Hai Hu, we studied pre-trained language models and the figurative meaning of language. We compiled test data containing Chinese idioms and conducted tests on three different RoBERTa-based models. We evaluated the performance of the models and examined the relationship between model performance and linguistic phenomena.
+*As the leader of the project, supervised by Prof. Hai Hu*
 
-We also conducted a series of tests on existing advanced LLMs (OpenAI GPT family and other open-source models) to answer questions including, but not limited to: Can LLMs understand idioms and figurative language? In which categories of figurative language do these models perform better or worse? What factors might influence the performance of these models?
-
+Under the guidance of Professor Hai Hu, we explored pre-trained language models and Chinese idioms. Idioms possess both literal and figurative meanings, and their meanings are context-dependent. Our goal was test if the model is able to tell whether an idiom's meaning was literal or figurative in varying contexts.
+In 2022-2023, we compiled test data containing Chinese idioms and conducted tests on three different masked models which are fine-tuned for NLI tasks.  ecently, we conducted a series of tests on existing advanced LLMs (OpenAI GPT family and other open-source models). We found that the models demonstrated significantly higher accuracy when dealing with idioms whose interpretations were literal.
 
 
 
