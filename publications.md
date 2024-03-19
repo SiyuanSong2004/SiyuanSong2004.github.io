@@ -16,13 +16,8 @@ As I continue my academic journey, I am eager to delve deeper into computational
 
 
 
-### Publications
-Not available now.
-
-Please be patient! I'm trying my best to do something. Get back in a few months and check again.
-
 ### Self-directed Projects
-#### **Testing LLMs with Chinese Xiehouyu Data**
+#### **Testing LLMs with Chinese Xiehouyu Data** (In Progress)
 *As the leader of the project, supervised by Prof. Hai Hu*
 Xiehouyu(歇后语) is a unique form of expression in Chinese, characterized by its brevity, wit, and vivid imagery. It consists of two parts: the first part acts as a 'lead-in,' similar to a riddle's setup, while the second part serves as the 'backing,' akin to the riddle's answer, fitting naturally and appropriately. In practical use, people often only say the first half and omit the second, allowing the listener to understand and guess its true meaning, hence the name xiehouyu.
 We aim to answer a series of RQs by designing a database that includes xiehouyu, including but not limited to:
@@ -30,7 +25,7 @@ We aim to answer a series of RQs by designing a database that includes xiehouyu,
 - Can the model understand manually created language riddles that do not exist in the current language?
 
 
-#### **Undergraduate Research Program at SJTU: Performance of Language Models on parsing Chinese Idioms** 
+#### **Undergraduate Research Program at SJTU: Performance of Language Models on parsing Chinese Idioms** (In Progress)
 *As the leader of the project, supervised by Prof. Hai Hu*
 
 Under the guidance of Professor Hai Hu, we explored pre-trained language models and Chinese idioms. Idioms possess both literal and figurative meanings, and their meanings are context-dependent. Our goal was test if the model is able to tell whether an idiom's meaning was literal or figurative in varying contexts.
@@ -39,10 +34,10 @@ In 2022-2023, we compiled test data containing Chinese idioms and conducted test
 
 ### Projects at SJTU SFL's CL Lab
 Under the guidance of Prof. Hu Hai
-#### **Evaluating Pragmatic Reasoning of LLMs With Chinese Implicatures**
+#### **Evaluating Pragmatic Reasoning of LLMs With Chinese Implicatures** (In Progress)
 We manually created a dataset on conversational implicature, categorizing the dialogues according to Grice's Maxims to test the models' pragmatic abilities. Furthermore, we also attempted to discover similarities between the errors made by the models and humans.
 The project is leaded by Shisen Yue and supervised by Prof. Hai Hu.
-#### **Exploring large models' understanding of anaphor**
+#### **Exploring large models' understanding of anaphor** (In Progress)
 We aim to large models' acquisition of Binding Principles using various prompts. This research is still in its early stages, and more information will be released subsequently.
 This project is leaded by Prof. Hai Hu.
 
