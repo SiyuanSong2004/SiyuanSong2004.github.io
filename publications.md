@@ -21,8 +21,7 @@ Not available now.
 Please be patient! I'm trying my best to do something. Get back in a few months and check again.
 
 ### Research in Progress
-#### **Benchmarking LLMs with Chinese Xiehouyu**
-
+#### **Testing LLMs with Chinese Xiehouyu Data**
 *As the leader of the project, supervised by Prof. Hai Hu*
 
 Xiehouyu(歇后语) is a unique form of expression in Chinese, characterized by its brevity, wit, and vivid imagery. It consists of two parts: the first part acts as a 'lead-in,' similar to a riddle's setup, while the second part serves as the 'backing,' akin to the riddle's answer, fitting naturally and appropriately. In practical use, people often only say the first half and omit the second, allowing the listener to understand and guess its true meaning, hence the name xiehouyu.
@@ -33,11 +32,14 @@ We aim to answer a series of RQs by designing a database that includes xiehouyu,
 
 
 #### **Evaluating Pragmatic Reasoning of LLMs With Chinese Implicatures**
-
 We manually created a dataset on conversational implicature, categorizing the dialogues according to Grice's Maxims to test the models' pragmatic abilities. Furthermore, we also attempted to discover similarities between the errors made by the models and humans.
+
+The project is leaded by Shisen Yue and supervised by Prof. Hai Hu.
 
 #### **Exploring large models' understanding of anaphor**
 We aim to large models' acquisition of Binding Principles using various prompts. This research is still in its early stages, and more information will be released subsequently.
+
+This project is leaded by Prof. Hai Hu.
 
 
 
@@ -51,7 +53,7 @@ We aim to large models' acquisition of Binding Principles using various prompts.
 
 
 ### Other Works
-## **Undergraduate Research Program at SJTU: Performance of NLI Models on parsing Chinese Idioms** 
+## **Undergraduate Research Program at SJTU: Performance of Language Models on parsing Chinese Idioms** 
 
 *As the leader of the project, supervised by Prof. Hai Hu*
 
