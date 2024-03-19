@@ -21,7 +21,7 @@ Not available now.
 Please be patient! I'm trying my best to do something. Get back in a few months and check again.
 
 ### Research in Progress
-## **Benchmarking LLMs with Chinese Xiehouyu**
+#### **Benchmarking LLMs with Chinese Xiehouyu**
 
 *As the leader of the project, supervised by Prof. Hai Hu*
 
@@ -32,16 +32,18 @@ We aim to answer a series of RQs by designing a database that includes xiehouyu,
 - Can the model understand manually created language riddles that do not exist in the current language?
 
 
-## **Evaluating Pragmatic Reasoning of LLMs With Chinese Implicatures**
+#### **Evaluating Pragmatic Reasoning of LLMs With Chinese Implicatures**
 
-*As one of the key members, leaded by senior student Shisen Yue and supervised by Prof. Hai Hu*
+We manually created a dataset on conversational implicature, categorizing the dialogues according to Grice's Maxims to test the models' pragmatic abilities. Furthermore, we also attempted to discover similarities between the errors made by the models and humans.
+
+#### **Exploring large models' understanding of anaphor**
+We aim to large models' acquisition of Binding Principles using various prompts. This research is still in its early stages, and more information will be released subsequently.
 
 
 
 
 
-
-## ** **
+#### **Testing **
 
 
 
