@@ -23,7 +23,7 @@ navbar-links:
 
   About Me: "aboutme"
   Research and Publications: "publications"
-  Projects and Tools: "projects"
+  # Projects and Tools: "projects"
   CV: "/assets/pdf/Siyuan_s_CV.pdf"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
