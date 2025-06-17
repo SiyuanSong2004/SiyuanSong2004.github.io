@@ -2,7 +2,7 @@
 layout: other
 permalink: /links/
 title: useful links
-nav: true
+nav: false
 nav_order: 3
 pagination:
   enabled: false
