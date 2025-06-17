@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[ZhoBLiMP]((https://arxiv.org/abs/2411.06096)) is now on arXiv! Use our [data](https://github.com/sjtu-compling/ZhoBLiMP) if you are interested.
-
+[ZhoBLiMP](https://arxiv.org/abs/2411.06096) is now on arXiv! Use our [data](https://github.com/sjtu-compling/ZhoBLiMP) if you are interested.
