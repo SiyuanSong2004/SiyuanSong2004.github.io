@@ -4,7 +4,7 @@ permalink: /music/
 title: music
 description: more about my music and my life
 nav: true
-nav_order: 4
+nav_order: 2
 pagination:
   enabled: false
   collection: posts
@@ -31,11 +31,11 @@ I led [Kairan](https://space.bilibili.com/488929786/), a non-profit music festiv
 </figure>
 
 <figure>
-  <img src='/assets/img/band.jpeg' width="90%" alt="li">
+  <img src='/assets/img/zgj.jpeg' width="90%" alt="li">
   <figcaption>折光记 Original Arts, Dec 2023</figcaption>
 </figure>
 
 <figure>
-  <img src='/assets/img/band.jpeg' width="90%" alt="li">
+  <img src='/assets/img/kairan.jpeg' width="90%" alt="li">
   <figcaption>Kairan 2022, July 2022</figcaption>
 </figure>
