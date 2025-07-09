@@ -27,7 +27,7 @@ In general, my research aims to:
 
 - use computational models to understand the underlying mechanism of language acquisition (first language, second language) and language processing.
 
-- Study the role of context (visual hints, pragmatics...) in language learning.
+- Study the role of context (visual hints, social context...) in language learning.
 
 - Evaluate language models in a scientific and cognitive-inspired way.
 
