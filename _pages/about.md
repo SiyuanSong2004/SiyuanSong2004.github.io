@@ -18,10 +18,11 @@ social: true # includes social icons at the bottom of the page
 
 My name is Siyuan Song(宋思远). I am a 3rd-year Undergrad at [UT Linguistics](https://liberalarts.utexas.edu/linguistics/). I am a member of [UT CompLing Group](https://sites.utexas.edu/compling/) and part of [UT NLP community](https://www.nlp.utexas.edu/). I'm fortunate to be advised by Dr. [Kyle Mahowald](https://mahowak.github.io/) and to work with a great team at UT. I had the honor of working as a Visiting Undergraduate Research Intern at [CoCoDev@Harvard](https://www.cocodev.org/) in the summer of 2024 mentored by Dr. [Jennifer Hu](https://jennhu.github.io/).
 
+Currently, I'm visiting [MIT BCS](https://bcs.mit.edu/) and am working with [Thomas Clark](https://thomashikaru.github.io/) at [TedLab](https://tedlab.mit.edu/) and [CPL](http://cpl.mit.edu/).
+
 Before transferring to UT at 2024 Fall, I was an undergrad at [School of Foreign Languages@SJTU](https://sfl.sjtu.edu.cn/en/).
 There, I had the honor of develving into the field of Computational Linguistics under the guidance of Dr. [Hai Hu](https://huhailinguist.github.io/). I am happy to work with [SJTU CL Lab](https://huhailinguist.github.io/lab/) even after I left SJTU.
 
-Currently, I'm visiting [MIT BCS](https://bcs.mit.edu/) and am working with [Thomas Clark](https://thomashikaru.github.io/) at [TedLab](https://tedlab.mit.edu/) and [CPL](http://cpl.mit.edu/).
 
 In general, my research aims to:
 
