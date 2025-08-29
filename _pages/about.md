@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Siyuan Song(宋思远). I am a 3rd-year Undergrad at [UT Linguistics](https://liberalarts.utexas.edu/linguistics/). I am a member of [UT CompLing Group](https://sites.utexas.edu/compling/) and part of [UT NLP community](https://www.nlp.utexas.edu/). I'm fortunate to be advised by Dr. [Kyle Mahowald](https://mahowak.github.io/) and to work with a great team at UT. I had the honor of working as a Visiting Undergraduate Research Intern at [CoCoDev@Harvard](https://www.cocodev.org/) in the summer of 2024 mentored by Dr. [Jennifer Hu](https://jennhu.github.io/).
+My name is Siyuan Song(宋思远). I am a 3rd-year Undergrad at [UT Linguistics](https://liberalarts.utexas.edu/linguistics/). I am a member of [UT CompLing Group](https://sites.utexas.edu/compling/) and part of [UT NLP community](https://www.nlp.utexas.edu/). I'm fortunate to be advised by Dr. [Kyle Mahowald](https://mahowak.github.io/) and to work with a great team at UT. 
 
-Currently, I'm visiting [MIT BCS](https://bcs.mit.edu/) and am working with [Thomas Clark](https://thomashikaru.github.io/) at [TedLab](https://tedlab.mit.edu/) and [CPL](http://cpl.mit.edu/).
+I had the honor of visiting [TedLab@MIT BCS](https://tedlab.mit.edu/) in the summer of 2025 mentored by [Thomas Clark](https://thomashikaru.github.io/), and working as a Visiting Undergraduate Research Intern at [CoCoDev@Harvard](https://www.cocodev.org/) in the summer of 2024 mentored by Dr. [Jennifer Hu](https://jennhu.github.io/).
 
 Before transferring to UT at 2024 Fall, I was an undergrad at [School of Foreign Languages@SJTU](https://sfl.sjtu.edu.cn/en/).
 There, I had the honor of develving into the field of Computational Linguistics under the guidance of Dr. [Hai Hu](https://huhailinguist.github.io/). I am happy to work with [SJTU CL Lab](https://huhailinguist.github.io/lab/) even after I left SJTU.
@@ -28,7 +28,7 @@ In general, my research aims to:
 
 - use computational models to understand the underlying mechanism of language acquisition (first language, second language) and language processing.
 
-- Study the role of context (visual hints, social context...) in language learning.
+- Study the role of multimodal input and multi-agent interaction in language learning.
 
 - Evaluate language models in a scientific and cognitive-inspired way.
 
