@@ -61,8 +61,12 @@
 
 "lederman":
   - firstname: ["Harvey"]
-    url: https://https://www.harveylederman.com//
+    url: https://www.harveylederman.com/
 
-"wilcox"
+"wilcox":
   - firstname: ["Ethan Gotlieb"]
     url: https://wilcoxeg.github.io/
+
+"levy":
+  - firstname: ["Roger"]
+    url: https://www.mit.edu/~rplevy/
