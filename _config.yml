@@ -442,8 +442,10 @@ enable_project_categories: true # enables categorization of projects into multip
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
-enable_mapmyvisitors_globe: true # enables MapMyVisitors globe widget (home page only)
-mapmyvisitors_globe_id: "JD_D5SvqccTL1gWYiXnpqkfz7n_QkRC_CUdT4b80rIg"
+enable_mapmyvisitors: true # enables MapMyVisitors map widget (home page only)
+mapmyvisitors_id: "xJIb2V8j1aopN8SZEh-sbvDuagOZE4IovQc74K1I-DQ"
+mapmyvisitors_color: "ffffff" # widget color; hex without '#'
+mapmyvisitors_width: "a" # widget width param (e.g., 'a' for auto)
 
 # -----------------------------------------------------------------------------
 # Library versions

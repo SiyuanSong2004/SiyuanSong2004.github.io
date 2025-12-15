@@ -1,8 +1,8 @@
-{% if site.enable_mapmyvisitors_globe and site.mapmyvisitors_globe_id %}
-  <!-- MapMyVisitors 3D globe widget -->
+{% if site.enable_mapmyvisitors and site.mapmyvisitors_id %}
+  <!-- MapMyVisitors map widget -->
   <script
     type="text/javascript"
-    id="mmvst_globe"
-    src="//mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_globe_id }}"
+    id="mapmyvisitors"
+    src="//mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}{% if site.mapmyvisitors_color %}&cl={{ site.mapmyvisitors_color }}{% endif %}{% if site.mapmyvisitors_width %}&w={{ site.mapmyvisitors_width }}{% endif %}"
   ></script>
 {% endif %}
