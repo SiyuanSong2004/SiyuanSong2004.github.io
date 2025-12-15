@@ -445,7 +445,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 enable_mapmyvisitors: true # enables MapMyVisitors map widget (home page only)
 mapmyvisitors_id: "xJIb2V8j1aopN8SZEh-sbvDuagOZE4IovQc74K1I-DQ"
 mapmyvisitors_color: "ffffff" # widget color; hex without '#'
-mapmyvisitors_width: "a" # widget width param (e.g., 'a' for auto)
+mapmyvisitors_width: "140" # widget width in px (use a smaller number for a smaller map)
 
 # -----------------------------------------------------------------------------
 # Library versions

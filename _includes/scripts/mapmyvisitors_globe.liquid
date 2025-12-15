@@ -1,8 +1,10 @@
 {% if site.enable_mapmyvisitors and site.mapmyvisitors_id %}
-  <!-- MapMyVisitors map widget -->
-  <script
-    type="text/javascript"
-    id="mapmyvisitors"
-    src="//mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}{% if site.mapmyvisitors_color %}&cl={{ site.mapmyvisitors_color }}{% endif %}{% if site.mapmyvisitors_width %}&w={{ site.mapmyvisitors_width }}{% endif %}"
-  ></script>
+  {% assign mmv_width = site.mapmyvisitors_width | default: '140' %}
+  <div class="mapmyvisitors-container" style="width: {{ mmv_width }}px; max-width: {{ mmv_width }}px; margin: 0 auto;">
+    <script
+      type="text/javascript"
+      id="mapmyvisitors"
+      src="//mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}{% if site.mapmyvisitors_color %}&cl={{ site.mapmyvisitors_color }}{% endif %}{% if site.mapmyvisitors_width %}&w={{ site.mapmyvisitors_width }}{% endif %}"
+    ></script>
+  </div>
 {% endif %}
