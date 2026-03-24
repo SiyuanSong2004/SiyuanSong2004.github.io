@@ -18,3 +18,13 @@ nav_order: 1
 {% bibliography %}
 
 </div>
+
+---
+
+## Presentations & Posters
+
+<div class="publications">
+
+{% bibliography --file posters %}
+
+</div>
